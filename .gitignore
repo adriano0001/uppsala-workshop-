@@ -1,4 +1,7 @@
-data/
+data/pdb
+data/*.txt
+data/animal-counts/
+data/elements/
 results/
 *.pdf
 .bash_profile
@@ -7,6 +10,5 @@ molecules/
 north-pacific-gyre/
 writing/
 
-!data/feline-data.csv
 
 .Rproj.user
