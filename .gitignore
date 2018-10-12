@@ -1,5 +1,9 @@
 data/
 results/
 *.pdf
- .bash_profile
- creatures/
+.bash_profile
+creatures/
+molecules/
+north-pacific-gyre/
+writing/
+.Rproj.user
