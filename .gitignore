@@ -6,4 +6,7 @@ creatures/
 molecules/
 north-pacific-gyre/
 writing/
+
+!data/feline-data.csv
+
 .Rproj.user
